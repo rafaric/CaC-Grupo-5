@@ -17,7 +17,7 @@ export const EncabezadoDePagina = () => {
                   placeholder="Buscar"
                 />
                 <button className="btn btn-secondary mt-2 px-3 py-2">
-                  <img src="/src/assets/iconos/Lupa.png" width="30" />
+                  <img src="/assets/iconos/Lupa.png" width="30" />
                 </button>
               </div>
             </div>
